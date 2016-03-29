@@ -1,0 +1,39 @@
+[
+    {
+        "Norway": {
+            "Oslo": {
+                "Comfort Xpress Central Station": {
+                    "area": "the city centre",
+                    "attractions": "the Opera House",
+                    "rate": 51
+                }
+            },
+            "Bergen": {
+                "Clarion Collection Hotel No 13": {
+                    "area": "the city centre",
+                    "attractions": "The National Stage",
+                    "rate": 40
+                }
+            }
+        },
+
+        "Sweden": {
+            "Stockholm": {
+                "Nordic C Hotel": {
+                    "area": "Norrmalm",
+                    "attractions": "Kungstredgården",
+                    "rate": 81
+                }
+            }
+        },
+        "Denmark": {
+            "Copenhagen": {
+                "SKT. PETRI": {
+                    "area" : "the inner city",
+                    "attractions" : "the University",
+                    "rate" : 82
+                }
+            }
+        }
+    }
+]

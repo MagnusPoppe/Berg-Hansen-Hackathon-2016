@@ -1,0 +1,28 @@
+[
+  {
+    "Alexander" : {
+      "City": "Los Angeles",
+      "Rating": 4.8,
+      "Age": 26,
+      "Gender": "Male",
+      "Bio": "Film producer, techie and yogi.",
+      "imagelink": "image/alexander.jpg"
+    },
+    "Daniel" : {
+      "City": "London",
+      "Rating": 5.0,
+      "Age": 32,
+      "Gender": "Male",
+      "Bio": "Write stuff, make stuff, eat stuff.",
+      "imagelink": "image/daniel.jpg"
+    },
+    "Jason" : {
+      "City": "New York City",
+      "Rating": 3.8,
+      "Age": 36,
+      "Gender": "Male",
+      "Bio": "Management consultant.",
+      "imagelink": "image/Jason.jpg"
+    }
+  }
+]

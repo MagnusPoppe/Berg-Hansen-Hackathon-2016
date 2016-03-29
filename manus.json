@@ -1,0 +1,23 @@
+[
+  {
+    "0": {
+      "0": "Good afternoon, Rihanna",
+      "1": "RooMe helps you make new friends and save money while staying at hotels! Just let me know where and when you’re going, and I’ll show you available hotels and roommates.",
+      "2": "Now let’s get to it! I see you’re in Stockholm. Are you looking for a hotel tonight? I have a few available you might be interested in."
+    },
+    "1" : {
+      "0": "profile0",
+      "1": "profile1",
+      "2": "profile2",
+      "3": "Would you like to stay with profile0, profile1 or profile2?"
+    },
+    "2" : {
+      "0": "Sure! How about Emily (32)? Just like you, she works in finance. She’s has requested a roommate at  Clarion Collection Hotel Gabelshus. It’s located in the quiet and charming Frogner area, a quick walk from the Royal Palace. ";
+    }
+    "3" : {
+      "0" : "All right. I have sent Emily a request, and I’ll let you know as soon as she responds. If she accepts your request, you may chat with her directly by tapping the chat icon in the top right corner.",
+      "1" : "Emily is quick, and it seems like she likes you as well. Your room is confirmed, and you start getting to know each other."
+    }
+
+  }
+]

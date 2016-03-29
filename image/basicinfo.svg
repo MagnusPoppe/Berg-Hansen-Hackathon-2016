@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="374px" height="236px" viewBox="0 0 374 236" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>basic info</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="20" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.105 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="App" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" filter="url(#filter-1)">
+        <g id="RooMe-Copy" transform="translate(-188.000000, -2541.000000)" stroke="#FFFFFF" stroke-width="3" fill="#257E62">
+            <g id="roommates-copy" transform="translate(42.000000, 2296.000000)">
+                <g id="person-1" transform="translate(28.000000, 0.000000)">
+                    <g id="image-and-basics">
+                        <g id="basic-info" transform="translate(169.000000, 274.000000)">
+                            <g id="age" transform="translate(0.000000, 37.000000)">
+                                <path d="M25.8066029,1.99840924 C28.6748369,0.342433543 33.3281149,0.344137751 36.1933971,1.99840924 L56.117492,13.5015908 C58.985726,15.1575665 61.3108891,19.1882755 61.3108891,22.4968185 L61.3108891,45.5031815 C61.3108891,48.8151329 58.9827743,52.8441378 56.117492,54.4984092 L36.1933971,66.0015908 C33.3251631,67.6575665 28.6718851,67.6558622 25.8066029,66.0015908 L5.88250801,54.4984092 C3.01427397,52.8424335 0.689110868,48.8117245 0.689110868,45.5031815 L0.689110868,22.4968185 C0.689110868,19.1848671 3.01722574,15.1558622 5.88250801,13.5015908 L25.8066029,1.99840924 Z" id="frame"></path>
+                            </g>
+                            <g id="rating" transform="translate(75.000000, 0.000000)">
+                                <path d="M55.8052149,1.99921059 C58.6742155,0.34279232 63.320827,0.339930083 66.1947851,1.99921059 L116.426993,31.0007894 C119.295994,32.6572077 121.621778,36.6798602 121.621778,39.9984212 L121.621778,98.0015788 C121.621778,101.314415 119.300951,105.33993 116.426993,106.999211 L66.1947851,136.000789 C63.3257845,137.657208 58.679173,137.66007 55.8052149,136.000789 L5.57300686,106.999211 C2.70400626,105.342792 0.378221735,101.32014 0.378221735,98.0015788 L0.378221735,39.9984212 C0.378221735,36.6855846 2.69904872,32.6600699 5.57300686,31.0007894 L55.8052149,1.99921059 Z" id="frame"></path>
+                            </g>
+                            <g id="gender" transform="translate(210.000000, 37.000000)">
+                                <path d="M25.8066029,1.99840924 C28.6748369,0.342433543 33.3281149,0.344137751 36.1933971,1.99840924 L56.117492,13.5015908 C58.985726,15.1575665 61.3108891,19.1882755 61.3108891,22.4968185 L61.3108891,45.5031815 C61.3108891,48.8151329 58.9827743,52.8441378 56.117492,54.4984092 L36.1933971,66.0015908 C33.3251631,67.6575665 28.6718851,67.6558622 25.8066029,66.0015908 L5.88250801,54.4984092 C3.01427397,52.8424335 0.689110868,48.8117245 0.689110868,45.5031815 L0.689110868,22.4968185 C0.689110868,19.1848671 3.01722574,15.1558622 5.88250801,13.5015908 L25.8066029,1.99840924 Z" id="frame"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

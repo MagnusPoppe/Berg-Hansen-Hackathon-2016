@@ -1,0 +1,52 @@
+<!DOCTYPE html">
+<html>
+
+<head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Chatte-funksjon</title>
+    
+    <link rel="stylesheet" href="style.css" type="text/css" />
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+
+    <script type="text/javascript">
+    function Chat () {
+        this.update = updateChat;
+        this.send = sendChat;
+        this.getState = getStateOfChat;
+    }
+
+    var chat =  new Chat();
+
+
+    </script>
+
+
+</head>
+
+<body>
+
+    <header>
+        <div id="icon1">
+            <img src="image/menu_icon.png">
+        </div>
+        <div id="icon2">
+            <img src="image/chat_icon.png">
+        </div>
+
+    </header>
+    <div id="textarea">
+
+    </div>
+    <div id="footer">
+        <form id="send-message-area">
+            <textarea id="send" maxlength = '100' placeholder="Type a message..."></textarea>
+            <input type="submit" value="Send" id="send-knapp">
+        </form>
+
+    </div>
+    
+</body>
+
+</html>
